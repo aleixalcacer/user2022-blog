@@ -1,14 +1,14 @@
 ---
-title: Post 1
-author: 'admin'
+title: EX
+author: admin
 date: '2022-06-20'
-slug: post-1
+slug: ex
 categories: []
 tags: []
 subtitle: ''
 summary: ''
 authors: []
-lastmod: '2022-06-20T13:16:28+02:00'
+lastmod: '2022-06-20T14:13:25+02:00'
 featured: no
 image:
   caption: ''

@@ -1,0 +1,35 @@
+---
+title: Ejemplo Iris
+author: admin
+date: '2022-06-20'
+slug: ejemplo-iris
+categories:
+  - Demo
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2022-06-20T14:11:10+02:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+```{r}
+library(tidyverse)
+library(plotly)
+```
+
+```{r}
+p <- iris %>% ggplot(aes(Petal.Length, Petal.Width, col = Species)) + geom_point()
+ggplotly(p)
+```
+
+```{r}
+p
+```
+
+

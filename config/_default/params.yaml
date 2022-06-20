@@ -104,6 +104,11 @@ extensions:
   academicons:
     enable: true
 
+# markup:
+goldmark:
+  renderer:
+    unsafe: true
+      
 # Security
 
 security:
