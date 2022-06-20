@@ -6,9 +6,9 @@ education:
     institution: Jaume I University
     year: 2022
   - course: Master’s Degree in Computational Mathematics
-    institution: Massachusetts Institute of Technology
+    institution: Jaume I University
     year: 2020
-  - course: BSc in Artificial Intelligence
+  - course: Bachelor’s Degree in Computational Mathematics
     institution: Jaume I University
     year: 2018
 email: "aalcacer@uji.es"

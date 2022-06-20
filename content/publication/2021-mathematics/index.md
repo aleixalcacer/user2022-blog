@@ -17,5 +17,4 @@ tags: [archetypal analysis]
 title: A data-driven classification of 3D foot types by archetypal shapes based on landmarks
 url_code: ""
 url_dataset: ""
-url_pdf: "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0228016&type=printable"
 ---
