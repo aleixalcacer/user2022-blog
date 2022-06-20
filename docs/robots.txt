@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://www.aleixalcacer.github.io/user2022-blog/sitemap.xml
+Sitemap: https://www.aleixalcacer.com/user2022-blog/sitemap.xml
