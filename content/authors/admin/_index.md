@@ -19,7 +19,7 @@ interests:
 - Neuroscience
 organizations:
 - name: Jaume I University
-  url: https://www.uji.com/
+  url: https://www.uji.es/
 role: PhD Student
 social:
 - icon: envelope
@@ -46,5 +46,7 @@ Currently, I am doing a PhD in mathematics at Jaume I University. Also, I am bei
 
 In my spare time, I love trail running, traveling, and learning about new cultures. Furthermore, I am an enthusiast of landscape photography.
 
+<!---
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+--->
 
