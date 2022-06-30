@@ -22,28 +22,45 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+  - title: Predoctoral researcher
+    company: Jaume I University
+    company_url: 'www.uji.es'
+    location: Castelló de la Plana, Spain
+    date_start: '2021-10-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+        I’m working on my PhD thanks to a FPU contract that I recieved from the Spanish Ministry of Universities.
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: External lecturer
+    company: Jaume I University
+    company_url: 'www.uji.es'
+    location: Castelló de la Plana, Spain
+    date_start: '2021-02-01'
+    date_end: '2021-03-01'
+    description: |2-
+        I taught the second module of the SIQ025 and SIQ525 subjects included in the master’s degree in Computational Mathematics.
+        The topics covered in the module were git and R packages.
+
+  - title: Research technician
+    company: Jaume I University
+    company_url: 'www.uji.es'
+    location: Castelló de la Plana, Spain
+    date_start: '2018-10-01'
+    date_end: '2021-08-01'
+    description: |2-
+        I was part of the DPI2017-87333-R project of the Ministry of Science, Innovation and Universities of Spain.
+        I was in charge of conducting tests and experiments and analyzing the results.
+        I also started researching in the field of archetypal analysis, publishing several articles and posters.
+
+  - title: Software analyst and designer
+    company: Francesc Alted
+    company_url: 'www.ironarray.io'
+    location: Castelló de la Plana, Spain
+    date_start: '2018-10-01'
+    date_end: '2021-09-01'
+    description:  |2-
+        I was part of the ironArray project.
+        We developed a new computational engine optimized for big-data applications.
 
 design:
   columns: '2'
